@@ -4,7 +4,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5733&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Mennatullah+Tarek+%F0%9F%91%8B;Passionate+Data+Scientist;AI+and+ML+Explorer" alt="Headline" /> 
 </div> 
 
-![Follow me](https://img.shields.io/github/followers/MennatullahTarek?label=Follow%20me&style=flat&logo=github)
+![Follow me](https://img.shields.io/badge/Follow%20me-brightgreen?style=social&logo=github)
 
 
 **Dynamic and ambitious Computer Science graduate** with an excellent and honor degree, passionate about **Data Science** and **Machine Learning**. I leverage my expertise in **Python**, **Pandas**, **NumPy**, and **Seaborn** along with a solid foundation in computer science principles to drive innovative solutions and insights.
