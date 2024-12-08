@@ -87,8 +87,4 @@
 - **Feel free to fork my projects and contribute to them.**  
 - **Looking for exciting opportunities to apply my skills in AI & Machine Learning!**
 
----
 
-## 📈 GitHub Activity:
-
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=MennatullahTarek&theme=react-dark)
