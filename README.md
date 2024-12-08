@@ -39,11 +39,6 @@
 
 ---
 
-## 🔥 GitHub Stats:
-
-![MennatullahTarek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MennatullahTarek&show_icons=true&count_private=true&theme=radical)
-
----
 
 ## 🎯 Connect with Me:
 
