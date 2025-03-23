@@ -1,8 +1,10 @@
 # Hey there, I'm **Mennatullah Tarek** 👋
 
 <div align=center> 
-   <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5733&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Mennatullah+Tarek+%F0%9F%91%8B;Passionate+Data+Scientist;AI+and+ML+Explorer" alt="Headline" /> 
+   <img src="https://readme-typing-svg.herokuapp.com?color=%239370DB&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Mennatullah+Tarek+%F0%9F%91%8B;Passionate+Data+Scientist;AI+and+ML+Explorer" alt="Headline" /> 
 </div> 
+
+
 
 ![Follow me](https://img.shields.io/badge/Follow%20me-brightgreen?style=social&logo=github)
 
